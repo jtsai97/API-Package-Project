@@ -13,12 +13,12 @@ Information will be retrieved via URL https://www.reddit.com/r/wallstreetbets/ho
 Parameters: after/before, limit, count
 
 Technical steps
--Obtain token from Reddit following steps
--Code function with parameters set to filter for words and phrases related to the January 2021 stock price surge
--Parse JSON format and return into Python dataframe
--Clean Python dataframe
--Analyze results and understand the time frame and correlations
--Produce Python package with documentation
--Comments
+-   Obtain token from Reddit following steps
+-   Code function with parameters set to filter for words and phrases related to the January 2021 stock price surge
+-   Parse JSON format and return into Python dataframe
+-   Clean Python dataframe
+-   Analyze results and understand the time frame and correlations
+-   Produce Python package with documentation
+-   Comments
 
 Since this is still a plan in progress, I welcome any feedback and comments to improve this project!
