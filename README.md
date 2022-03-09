@@ -11,6 +11,7 @@ Links to API:
 
 API Page: https://www.reddit.com/dev/api/ 
 Information will be retrieved via URL https://www.reddit.com/r/wallstreetbets/hot.json and returned in JSON format.
+
 Parameters: after/before, limit, count
 
 Technical steps
